@@ -6,11 +6,11 @@ Running steps(Partially Copied from CS 257 website):
 
 In command line:
 
-cd <this directory>
+cd (this directory)
 
-git checkout <last branch>
+git checkout (last branch)
 
-psql -U <username> <dbname> < data.sql
+psql -U (username) (dbname) < data.sql
 
 Edit config.py to correspond to my user name and my "grading" database name
 
